@@ -1,0 +1,4 @@
+service : {
+  getResults: () -> (text) query;
+  vote: (text, text, text) -> (text);
+}
